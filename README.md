@@ -1,10 +1,9 @@
 ## Getting Started
 
-This repository includes files with plain SQL that can be used to recreate a database:
+In this project you will learn how to use a module inside your class:
 
-- Use [schema.sql](./schema.sql) to create all tables.
-<!-- - Use [data.sql](./data.sql) to populate tables with sample data.
-- Check [queries.sql](./queries.sql) for examples of queries that can be run on a newly created database. **Important note: this file might include queries that make changes in the database (e.g., remove records). Use them responsibly!** -->
+- Use Ruby syntax for basic programming operations.
+- Apply Ruby best practices and language style guides in code.
 
 <a name="readme-top"></a>
 
@@ -29,9 +28,9 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [clinic] <a name="about-project"></a>
+# 📖 [enumerate] <a name="about-project"></a>
 
-**[clinic]** is a PostgreSQL database with tables of values, and relations between them.
+**[enumerate]** In this project you will learn how to use a module inside your class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -44,11 +43,10 @@ This repository includes files with plain SQL that can be used to recreate a dat
   </ul>
 </details>
 
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-Morse decoder
+Enumerate Practice
 
 ### Prerequisites
 
@@ -67,7 +65,7 @@ You don't need to install this project.
 
 ### Usage
 
-run ibr
+run ruby enumerate.rb
 
 ### Run tests
 
